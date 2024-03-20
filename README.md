@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dawntwister
-- 👀 I’m looking in the field in consulting and data management area to find out my interests
+- 👀 I’m looking in the field in consulting, data management and Generative AI to find out my interests
 - 🌱 I’m currently learning Pandas, CSS and Scrum
 - 📫 How to reach me: Gmail: ngzhanhui9@gmail.com
 Linkedin: http://linkedin.com/in/zhan-hui
