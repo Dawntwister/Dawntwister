@@ -4,7 +4,8 @@
 - I'm also doing a DataCamp Course offered by AI Singapore in parallel for machine learning courses
 - Data-related Skillsets: SQL, PHP, Express.js, Excel PowerPivot, Excel PowerQuery, Python Numpy and Pandas, Tableau
 - Next big steps I will be looking into:
-  - PowerBI Data Visualization Tool
+  - SQL Data Queries Revision
+  - AWS Cloud Practitioner Certificate
   - Database Platforms: Apache Spark and MongoDB
   - ETL & Data Pipelines: Bash, Airflow & Kafka
 - 📫 How to reach me: Gmail: ngzhanhui9@gmail.com
