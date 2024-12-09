@@ -7,7 +7,7 @@
   - SQL Data Queries Revision; LeetCode Grinding
   - AWS AI Practitioner Certificate
   - AWS Solutions Architect Certificate
-  - Big Data Tools Platforms: Apache Spark; Cache Systems: Redis, Memcached; NoSQL DB: Cassandra, mongoDB
+  - Big Data Tools Platforms: Apache Spark, Hadoop, Snowflake AI Platform, Databricks; Cache Systems: Redis, Memcached; NoSQL DB: Cassandra, mongoDB
   - ETL & Data Pipelines: Bash, Airflow
 - 📫 How to reach me: Gmail: ngzhanhui9@gmail.com
 Linkedin: http://linkedin.com/in/zhan-hui
